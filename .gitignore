@@ -1,0 +1,26 @@
+# Maven build and wrapper outputs
+target/
+build/
+bin/
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.swp
+*.swo
+
+# Compiled classes, archives, logs, and OS files
+*.class
+*.log
+*.jar
+*.war
+*.ear
+.DS_Store
+Thumbs.db
